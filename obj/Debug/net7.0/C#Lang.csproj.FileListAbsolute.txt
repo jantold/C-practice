@@ -1,0 +1,15 @@
+C:\C#Lang\bin\Debug\net7.0\C#Lang.exe
+C:\C#Lang\bin\Debug\net7.0\C#Lang.deps.json
+C:\C#Lang\bin\Debug\net7.0\C#Lang.runtimeconfig.json
+C:\C#Lang\bin\Debug\net7.0\C#Lang.dll
+C:\C#Lang\bin\Debug\net7.0\C#Lang.pdb
+C:\C#Lang\obj\Debug\net7.0\C#Lang.csproj.AssemblyReference.cache
+C:\C#Lang\obj\Debug\net7.0\C#Lang.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Lang\obj\Debug\net7.0\C#Lang.AssemblyInfoInputs.cache
+C:\C#Lang\obj\Debug\net7.0\C#Lang.AssemblyInfo.cs
+C:\C#Lang\obj\Debug\net7.0\C#Lang.csproj.CoreCompileInputs.cache
+C:\C#Lang\obj\Debug\net7.0\C#Lang.dll
+C:\C#Lang\obj\Debug\net7.0\refint\C#Lang.dll
+C:\C#Lang\obj\Debug\net7.0\C#Lang.pdb
+C:\C#Lang\obj\Debug\net7.0\C#Lang.genruntimeconfig.cache
+C:\C#Lang\obj\Debug\net7.0\ref\C#Lang.dll
